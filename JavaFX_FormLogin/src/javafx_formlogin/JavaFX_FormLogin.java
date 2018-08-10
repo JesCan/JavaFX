@@ -56,6 +56,7 @@ public class JavaFX_FormLogin extends Application {
         grid.add(pwBox, 1,2);
         
         grid.setGridLinesVisible(false);
+        //Activa las líneas de la grilla
         
         Button btn = new Button("Sign in");
         HBox hbBtn = new HBox(10);
