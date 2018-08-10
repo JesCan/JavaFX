@@ -57,6 +57,7 @@ public class JavaFX_FormLogin extends Application {
         
         grid.setGridLinesVisible(false);
         //Activa las líneas de la grilla
+        //Seguimos probando el Git....
         
         Button btn = new Button("Sign in");
         HBox hbBtn = new HBox(10);
