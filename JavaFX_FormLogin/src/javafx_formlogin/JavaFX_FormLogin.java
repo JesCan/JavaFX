@@ -53,6 +53,7 @@ public class JavaFX_FormLogin extends Application {
         grid.add(scenetitle, 0, 0,2,1);
         grid.add(userName, 0, 1);
         grid.add(usertextfield, 1, 1);
+        grid.add(pw, 0, 2);
         grid.add(pwBox, 1,2);
         
         grid.setGridLinesVisible(false);
